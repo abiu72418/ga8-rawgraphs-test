@@ -1,2 +1,1 @@
-# ga8-rawgraphs-test
-Q6: RAWGraphs Chart
+# RAWGraphs Visualization\n\nSubmitted by: test@example.com\n\nUse Manual Mode to download sample data and chart.
